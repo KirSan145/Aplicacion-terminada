@@ -1,0 +1,2 @@
+# Aplicacion-terminada
+Aplicacion terminada
